@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "WebXRTemplate",
+"companyName": "manouj",
+"productName": "WebXR2019.4.7",
 "productVersion": "0.1",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.5f1"
+"unityVersion": "2019.4.7f1"
 }
